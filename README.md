@@ -1,5 +1,5 @@
 
-## Oi, me chamo Monalyza da Silva lima 👋
+## Oi, me chamo Monalyza 👋
 Curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia Baiano, Campus Guanambi.
 <div align="center">
   <a href="https://github.com/MonalyzaLima">
