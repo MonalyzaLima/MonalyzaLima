@@ -1,6 +1,6 @@
 
 ## Oi, me chamo Monalyza 👋
-Curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia Baiano, Campus Guanambi.
+Graduada em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia Baiano, Campus Guanambi.
 <div align="center">
   <a href="https://github.com/MonalyzaLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MonalyzaLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
